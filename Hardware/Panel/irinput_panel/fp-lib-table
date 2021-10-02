@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name irinput_panel)(type KiCad)(uri ${KIPRJMOD}/irinput_panel.pretty)(options "")(descr ""))
+)
