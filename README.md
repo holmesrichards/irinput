@@ -2,7 +2,31 @@ This is a work in progress; better README to come soon. Meanwhile:
 
 **Untested hardware and software — Do not assume anything works!**
 
-Repo uses submodules aoKicad and Kosmo_panel. To clone:
+
+## Current draw
+ mA +12 V,  mA -12 V
+
+
+## Photos
+
+![]()
+
+![]()
+
+## Documentation
+
+* [Schematic](Docs/.pdf)
+* PCB layout: [front](Docs/_layout_front.pdf), [back](Docs/_layout_back.pdf)
+* [BOM](Docs/_bom.md)
+* [Build notes](Docs/build.md)
+
+## GitHub repository
+
+* [https://github.com/holmesrichards/](https://github.com/holmesrichards/)
+
+## Submodules
+
+This repo uses submodules aoKicad and Kosmo_panel, which provide needed libaries for KiCad. To clone:
 
 ```
 git clone git@github.com:holmesrichards/ir_input.git
