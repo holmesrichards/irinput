@@ -680,8 +680,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84999999"
-     inkscape:cx="382.35295"
-     inkscape:cy="527.05883"
+     inkscape:cx="235.29412"
+     inkscape:cy="511.76471"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -698,8 +698,8 @@
      inkscape:snap-grids="true"
      inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-text-baseline="false"
+     inkscape:snap-center="false"
+     inkscape:snap-text-baseline="true"
      inkscape:measure-start="236.22,816.378"
      inkscape:measure-end="236.22,687.874"
      inkscape:object-paths="true"
@@ -1999,8 +1999,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Behind panel"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m -7.2007859,2.2480381 h 0.622047 v 0.6220475 h -0.456693 l -0.165354,-0.1574803 z"
@@ -2258,7 +2257,7 @@
     </g>
     <g
        id="g5832"
-       transform="translate(8.8582678,-1.0393696)"
+       transform="translate(8.3661418,-1.0393696)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -2296,7 +2295,7 @@
     </g>
     <g
        id="g23951"
-       transform="translate(8.8582678,2.1102385)"
+       transform="translate(8.3661418,2.1102385)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -2360,9 +2359,9 @@
        width="1.968504"
        id="rect829-4"
        style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.0104167"
-       inkscape:export-xdpi="1016.0015"
-       inkscape:export-ydpi="1016.0015"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_art.png" />
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png" />
     <text
        xml:space="preserve"
        style="font-size:0.175428px;line-height:1;font-family:Limelight;-inkscape-font-specification:Limelight;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#ff0000;stroke-width:0.00999999;stroke-linejoin:bevel;stop-color:#000000"
@@ -2370,9 +2369,9 @@
        y="8.763319"
        id="text2144"
        transform="scale(0.90220081,1.1084007)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_art.png"
-       inkscape:export-xdpi="1016.0015"
-       inkscape:export-ydpi="1016.0015"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513"><tspan
          sodipodi:role="line"
          x="3.2698815"
          y="8.763319"
@@ -2404,25 +2403,28 @@
        id="path2218"
        inkscape:path-effect="#path-effect2220"
        inkscape:original-d="M 1.9685039,2.3622053 H 3.9370078"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_art.png"
-       inkscape:export-xdpi="1016.0015"
-       inkscape:export-ydpi="1016.0015" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="font-variation-settings:normal;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
        d="m 1.9685035,9.4488188 c 0,0 1.9685039,0 1.9685039,0"
        id="path2218-3"
        inkscape:path-effect="#path-effect2803"
        inkscape:original-d="M 1.9685035,9.4488188 H 3.9370074"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_art.png"
-       inkscape:export-xdpi="1016.0015"
-       inkscape:export-ydpi="1016.0015" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke-width:0.96;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        x="283.46457"
        y="207.87402"
        id="text3350"
-       transform="matrix(0.01041667,0,0,0.01041667,-0.00593496,0.06759921)"><tspan
+       transform="matrix(0.01041667,0,0,0.01041667,-0.00593496,0.06759921)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513"><tspan
          sodipodi:role="line"
          id="tspan3348"
          x="283.46457"
@@ -4061,7 +4063,7 @@
          id="tspan3250">GAIN</tspan></text>
     <circle
        cy="4.5275593"
-       cx="2.9527559"
+       cx="2.4606299"
        id="circle5891"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -4071,7 +4073,7 @@
     <text
        id="text5895"
        y="5.1377959"
-       x="2.9527559"
+       x="2.4606299"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_art.png"
@@ -4079,7 +4081,7 @@
        inkscape:export-ydpi="1016.0015"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="5.1377959"
-         x="2.9527559"
+         x="2.4606299"
          id="tspan5893"
          sodipodi:role="line">SENSITIVITY</tspan></text>
     <text
@@ -4142,7 +4144,7 @@
        inkscape:export-ydpi="1016.0015" />
     <circle
        cy="7.6771674"
-       cx="2.9527564"
+       cx="2.4606304"
        id="circle5978"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -4152,7 +4154,7 @@
     <text
        id="text5984"
        y="8.2874041"
-       x="2.9527564"
+       x="2.4606304"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0.6;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_art.png"
@@ -4160,7 +4162,7 @@
        inkscape:export-ydpi="1016.0015"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="8.2874041"
-         x="2.9527564"
+         x="2.4606304"
          sodipodi:role="line"
          id="tspan5982">THRESHOLD</tspan></text>
     <circle
@@ -4218,6 +4220,23 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_art.png"
        inkscape:export-xdpi="1016.0015"
        inkscape:export-ydpi="1016.0015" />
+    <circle
+       r="0.098425195"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2161"
+       cx="3.4448819"
+       cy="4.5275593" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="3.4448817"
+       y="4.8425198"
+       id="text2166"><tspan
+         sodipodi:role="line"
+         id="tspan2164"
+         x="3.4448817"
+         y="4.8425198"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167">SATURATION</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4806,7 +4825,7 @@
        inkscape:export-ydpi="999.94513" />
     <circle
        cy="4.5275593"
-       cx="2.9527559"
+       cx="2.4606299"
        id="circle5897"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.13779527"
@@ -4816,7 +4835,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path5899"
-       d="m 2.9527513,4.4291352 v 0.19685"
+       d="m 2.4606253,4.4291352 v 0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
        inkscape:export-xdpi="999.94513"
@@ -4824,7 +4843,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path5901"
-       d="m 3.0511763,4.5275602 h -0.19685"
+       d="m 2.5590503,4.5275602 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
        inkscape:export-xdpi="999.94513"
@@ -4972,7 +4991,7 @@
     </g>
     <circle
        cy="7.6771674"
-       cx="2.9527564"
+       cx="2.4606304"
        id="circle5986"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.13779527"
@@ -4982,7 +5001,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path5988"
-       d="m 2.9527519,7.5787432 v 0.19685"
+       d="m 2.4606259,7.5787432 v 0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
        inkscape:export-xdpi="999.94513"
@@ -4990,7 +5009,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path5990"
-       d="m 3.0511769,7.6771682 h -0.19685"
+       d="m 2.5590509,7.6771682 h -0.19685"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
        inkscape:export-xdpi="999.94513"
@@ -5092,6 +5111,31 @@
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.992126,8.6600899 H 2.913386"
        id="path2158"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <circle
+       r="0.098425195"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2169"
+       cx="3.4448819"
+       cy="4.5275593"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 3.4448817,4.488189 v 0.07874"
+       id="path2171"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 3.4842519,4.5262318 h -0.07874"
+       id="path2173"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel_holes.png"
        inkscape:export-xdpi="999.94513"
@@ -5995,7 +6039,7 @@
     <g
        style="display:inline"
        id="g5911"
-       transform="matrix(-0.62017717,0,0,0.62017717,4.4190463,0.1436681)"
+       transform="matrix(-0.62017717,0,0,0.62017717,3.9269203,0.1436681)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -6034,7 +6078,7 @@
     <g
        style="display:inline"
        id="g6000"
-       transform="matrix(-0.62017717,0,0,0.62017717,4.4190469,3.293276)"
+       transform="matrix(-0.62017717,0,0,0.62017717,3.9269209,3.293276)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Barton/IR Input/IR Input Kosmo/Images/irinput_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -6123,6 +6167,12 @@
        cy="8.661417"
        cx="2.9527559"
        id="circle2160"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="0.098425187" />
+    <circle
+       cy="4.5275593"
+       cx="3.4448819"
+       id="circle2175"
        style="display:inline;opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.098425187" />
   </g>
