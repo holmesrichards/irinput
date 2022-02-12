@@ -3433,7 +3433,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2f5f9a85-d35f-44b8-95b6-8a5486a2748e)
     (property "Reference" "C1" (id 0) (at 102.87 70.0745 90))
-    (property "Value" "1uF" (id 1) (at 102.87 72.8496 90))
+    (property "Value" "100nF" (id 1) (at 102.87 72.8496 90))
     (property "Footprint" "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" (id 2) (at 106.68 75.2348 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4519,7 +4519,7 @@
       (reference "B3") (unit 1) (value "Board") (footprint "ao_tht:Board_Marker")
     )
     (path "/2f5f9a85-d35f-44b8-95b6-8a5486a2748e"
-      (reference "C1") (unit 1) (value "1uF") (footprint "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
+      (reference "C1") (unit 1) (value "100nF") (footprint "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/00000000-0000-0000-0000-00005f73fa30"
       (reference "C2") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
