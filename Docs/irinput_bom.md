@@ -20,8 +20,8 @@ Generated from schematic by Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1
 | J2 | 1 | Synth_power_2x5 | Shrouded 2x5 pin header | Tayda | A-2939 |
 | J4 | 1 | Conn_01x06 | 1x6 pin socket, 2.54 mm |  |  |
 | J5 | 1 | Conn_01x06 | 1x6 pin header, 2.54 mm |  |  |
-| J6, J7 | 2 | AudioJack2 | 1/4" Audio Jack, 2 Poles (Mono / TS) | Tayda | A-1121 |
-| Q1, Q2 | 2 | TOPS-050 | NPN phototransistor, collector/emitter | Tayda |  |
+| J6, J7 | 2\* | AudioJack2 | 1/4" Audio Jack, 2 Poles (Mono / TS) | Tayda | A-1121 |
+| Q1, Q2 | 2\* | TOPS-050 | NPN phototransistor, collector/emitter | Tayda |  |
 | R1 | 1 | 100R | Resistor | Tayda |  |
 | R2 | 1 | 10R | Resistor | Tayda |  |
 | R3 | 1 | 68k | Resistor | Tayda |  |
@@ -39,3 +39,5 @@ Generated from schematic by Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1
 | | 3 | | knobs | | |
 
 M3 screws, spacers, washers
+
+\* One 3.5 mm stereo jack and one phototransistor are used to make a cable mounted external IR pickup.
