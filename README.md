@@ -14,6 +14,8 @@ Modifications to Barton's design are as follows:
 * Added an indicator LED for saturation. This turns on when the PT emitter voltage is about 10 V. Normally one would want to operate with the sensitivity pot adjusted to just below where this LED comes on continuously while the IR light source is maximum.
 * Specified A1M rather than B1M for sensitivity pot.
 
+My modifications, PCB layout, and documentation are licensed Creative Commons Zero (see [LICENSE](LICENSE)). This license is not intended to apply to Michael Barton's intellectual property and no violation of any applicable copyright is intended. Do not use this design for any commercial purpose without first obtaining Barton's permission.
+
 
 ## Current draw
 12 mA +12 V, 8 mA -12 V
