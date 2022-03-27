@@ -1,28 +1,40 @@
-This is a work in progress; better README to come soon. Meanwhile:
+# Barton IR Input
 
-**Untested hardware and software — Do not assume anything works!**
+This is a modified version, in Kosmo format, of the [Barton Musical Circuits 078 IR Input](https://www.bartonmusicalcircuits.com/irin/index.html) synth module. Barton describes the original version as follows:
+
+> This module is designed to allow infrared light sources to interact with your synthesizer. The most common household sources of infrared light are fire and remote controls. Infrared LEDs are also readily available to DIYers who wanted to experiment with creating new devices for controlling synthesizers through this module.
+
+The infrared phototransistor that picks up the IR light may be AC or DC coupled to the circuit. Outputs are a CV proportional to the IR signal and a gate that turns on when the CV rises above a threshold set with a panel pot. Another panel pot sets the phototransistor sensitivity.
+
+Modifications to Barton's design are as follows:
+
+* Added 3.5 mm TRS jack for a cable connecting to an external phototransistor and a switch to select internal or external PT. This allows using candles, lighters, etc. to control the synth while not having to have them right in front of it.
+* Added gain knob to control gain of amplifier stage. The sensitivity pot (what Barton calls "bias") does vary the size of the signal but gives a small window between too small (no output) and too large (saturated). In AC coupled mode, the size of the AC component may be small, e.g. a few hundred mV, even when the sensitivity pot is set to just below saturation; of course the AC component disappears if the sensitivity pot is then raised further. The gain pot may be used to amplify the AC component to the level of a few volts. In AC mode, the gain range is 1 to 11. In DC mode, the gain pot may be used to help with faint IR sources; the gain range is 1 to 2.
+* Added a bicolor indicator LED for the CV output. Brightness is indicative of CV amplitude and color indicates sign (which is positive in DC mode but can go negative in AC mode). 
+* Added an indicator LED for saturation. This turns on when the PT emitter voltage is about 10 V. Normally one would want to operate with the sensitivity pot adjusted to just below where this LED comes on continuously while the IR light source is maximum.
+* Specified A1M rather than B1M for sensitivity pot.
 
 
 ## Current draw
- mA +12 V,  mA -12 V
+12 mA +12 V, 8 mA -12 V
 
 
 ## Photos
 
-![]()
+![](Images/irinput_front.jpg)
 
-![]()
+![](Images/irinput_boards.jpg)
 
 ## Documentation
 
-* [Schematic](Docs/.pdf)
+* [Schematic](Docs/irinput.pdf)
 * PCB layout: [front](Docs/_layout_front.pdf), [back](Docs/_layout_back.pdf)
-* [BOM](Docs/_bom.md)
-* [Build notes](Docs/build.md)
+* [BOM](Docs/irinput_bom.md)
+* [Build notes](Docs/irinput_build.md)
 
 ## GitHub repository
 
-* [https://github.com/holmesrichards/](https://github.com/holmesrichards/)
+* [https://github.com/holmesrichards/irinput](https://github.com/holmesrichards/irinput)
 
 ## Submodules
 

@@ -1,0 +1,25 @@
+Drill report for irinput_b3.kicad_pcb
+Created on Sat Mar 12 15:30:31 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'irinput_b3.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.900mm  0.0354"  (4 holes)
+    T2  1.000mm  0.0394"  (6 holes)
+    T3  2.700mm  0.1063"  (10 holes)
+
+    Total plated holes count 20
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T4  3.200mm  0.1260"  (2 holes)
+
+    Total unplated holes count 2
