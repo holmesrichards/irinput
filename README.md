@@ -27,6 +27,8 @@ My modifications, PCB layout, and documentation are licensed Creative Commons Ze
 
 ![](Images/irinput_boards.jpg)
 
+![](Images/ext_PT.jpg)
+
 ## Documentation
 
 * [Schematic](Docs/irinput.pdf)
