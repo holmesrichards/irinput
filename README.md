@@ -35,6 +35,7 @@ My modifications, PCB layout, and documentation are licensed Creative Commons Ze
 * PCB layout: [front](Docs/_layout_front.pdf), [back](Docs/_layout_back.pdf)
 * [BOM](Docs/irinput_bom.md)
 * [Build notes](Docs/irinput_build.md)
+* [Blog post 1](https://analogoutputblog.wordpress.com/2022/02/22/playing-with-fire/), [blog post 2](https://analogoutputblog.wordpress.com/2022/03/27/ir-input/)
 
 ## GitHub repository
 
